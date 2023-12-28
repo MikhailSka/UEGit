@@ -1,0 +1,1 @@
+print("I have no idea for new function")
