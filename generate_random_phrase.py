@@ -16,4 +16,3 @@ def generate_random_phrase(num_words=3):
     random_phrase = ' '.join(random_words)
     return random_phrase
 
-random_phrase = generate_random_phrase()
